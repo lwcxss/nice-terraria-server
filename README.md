@@ -2,7 +2,9 @@
 
 Deploy a Terraria server, quickly!
 
-<br> <br> <br>
+This project automates downloading and configuring terraria servers using Containers.
+
+<br>
 
 ## Setting it up!
 
